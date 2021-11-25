@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-dark .row .col img{
+    width: 70px;
+}
+
+.ms_width_100{
+    width: 100vw;
+    left: -78px !important;
+}
+
+header .nav-link img{
+    width: 10px;
+}
+
+header .chevron-hover{
+    display: none;
+}
+
+.ms_btn{
+    background: rgb(54, 54, 54);
+    color: white;
+    border-radius: 50px;
+}
+
+.ms_btn:hover{
+}
+
+.form-control{
+    display: none !important;
+}
