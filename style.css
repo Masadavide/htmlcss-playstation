@@ -33,3 +33,19 @@ header .chevron-hover{
 .form-control{
     display: none !important;
 }
+
+.ms_jumbo{
+    margin-top: 104px;
+    background-image: url(img/jumbo-bg.png);
+    min-height: 650px;
+    background-size: cover;
+    background-position: center;
+}
+
+.position-absolute img{
+    width: 300px;
+}
+
+.ms_font_size{
+    font-size: 50px;
+}
