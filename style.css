@@ -22,12 +22,20 @@ header .chevron-hover{
 }
 
 .ms_btn{
-    background: rgb(54, 54, 54);
     color: white;
     border-radius: 50px;
 }
 
-.ms_btn:hover{
+.ms_btn_grey{
+    background-color: rgb(31, 31, 31);
+}
+
+.ms_btn_orange{
+    background-color: rgb(205, 61, 15);
+}
+
+.ms_btn_blue{
+    background-color: blue;
 }
 
 .form-control{
@@ -47,5 +55,25 @@ header .chevron-hover{
 }
 
 .ms_font_size{
-    font-size: 50px;
+    font-size: 40px;
 }
+
+img{
+    width: 100%;
+}
+
+.ms_rounded{
+    border-radius: 20px;
+}
+
+.ms_hidden{
+    display: none;
+}
+
+.ms_jumbo2{
+    background-image: url(img/it-takes-two-hero-banner-desktop.jpg);
+    min-height: 650px;
+    background-size: cover;
+    background-position: center;
+}
+
